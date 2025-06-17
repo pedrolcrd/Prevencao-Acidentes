@@ -1,4 +1,4 @@
-# Dashboard de Análise de Acidentes de Trânsito
+ # Dashboard de Análise de Acidentes de Trânsito
 
 Este projeto implementa um dashboard interativo para análise de dados de acidentes de trânsito utilizando Streamlit, XGBoost e integração com LLM Llama 3.1 via Ollama.
 

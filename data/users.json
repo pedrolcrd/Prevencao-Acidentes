@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "0754345a-af56-4afc-a1f2-ad7eecb241a3",
+      "email": "teste@gmail.com",
+      "name": "teste",
+      "created_at": 1750109222.2194197,
+      "password": "$2b$12$cUoShvC95TW6cD62ORYQv.Fkxw22w0v40Nj97d7Rh6mET.Bimz9OW"
+    }
+  ]
+}

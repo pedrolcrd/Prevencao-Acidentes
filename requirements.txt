@@ -1,7 +1,6 @@
 streamlit
 pandas
 plotly
-xgboost
 scikit-learn
 requests
 ollama
@@ -13,7 +12,6 @@ tqdm
 jupyter
 IPython
 pathlib
-
 bcrypt
 python-dotenv
 uvicorn
